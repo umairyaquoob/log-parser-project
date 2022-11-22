@@ -1,3 +1,4 @@
+// Log parser
 package main
 
 import (
